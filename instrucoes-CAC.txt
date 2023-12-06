@@ -1,0 +1,2 @@
+file:///C:/Users/andre.guskuma.ENCORA/projetos/cypress-basico-v2/src/index.html
+
